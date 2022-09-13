@@ -60,6 +60,7 @@ int main() {
 	//abs
 	std::cout << abs(-5) << "\n"; //5
 	std::cout << abs(7.4) << "\n"; //7.4
+	std::cout << abs(-1.1f) << "\n"; //1.1
 
 
 
